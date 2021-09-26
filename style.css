@@ -1,0 +1,43 @@
+body {
+   background-color: gray;
+}
+h1 {
+    color: lightseagreen;
+    text-align: center;
+}
+
+.contenedor-Login {
+    width: 40%;
+    margin: 0 auto;
+}
+
+.tituloLogin {
+    font-family: cursive;
+    color: darkred;
+    text-align: center;
+}
+
+.contenedor-Form {
+    width: 90%;
+    border-radius: 5%;
+    border:lightseagreen solid;
+    box-shadow: 10px 5px 5px black;
+    margin: 0 auto;
+}
+
+form {
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.AQUI {
+    background-color: brown;
+    color: black;
+    border: solid 1px #000000ba;
+    border-radius: 10%;
+}
+
+.AQUI:hover {
+    background-color: teal;
+}
